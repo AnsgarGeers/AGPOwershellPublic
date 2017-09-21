@@ -8,8 +8,5 @@ SCCM Scripts Primary for SCCM CB
 1. Distribution Point
 2. Managementpoint
 3. Application Deployment
+
 >....
-
-
-
-
