@@ -1,0 +1,1 @@
+Start-CMApplicationDeploymentSimulation -CollectionName "All Systems" -Name "Acrobat Reader XI"

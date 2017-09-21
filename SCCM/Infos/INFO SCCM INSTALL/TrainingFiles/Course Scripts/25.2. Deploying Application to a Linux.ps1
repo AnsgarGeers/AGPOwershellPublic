@@ -1,0 +1,1 @@
+Start-CMPackageDeployment -CollectionName "CentOS Servers" -PackageName "Chrome for Linux" -ProgramName "Install Chrome for Linux" -StandardProgram -DeployPurpose Required -ScheduleEvent AsSoonAsPossible -FastNetworkOption DownloadContentFromDistributionPointAndRunLocally -SlowNetworkOption DoNotRunProgram
