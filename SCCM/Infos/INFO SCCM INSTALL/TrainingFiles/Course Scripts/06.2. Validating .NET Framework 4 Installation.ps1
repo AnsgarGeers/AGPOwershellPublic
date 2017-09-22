@@ -1,1 +1,0 @@
-Get-WindowsFeature -Name NET-Framework-45-Features

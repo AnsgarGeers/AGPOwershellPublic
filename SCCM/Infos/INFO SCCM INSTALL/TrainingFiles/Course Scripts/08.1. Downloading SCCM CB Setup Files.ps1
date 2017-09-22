@@ -1,1 +1,0 @@
-Start-Process -Filepath ("\\srv0001\Trainingfiles\Source\SCCMCB\Extract\SMSSETUP\BIN\X64\SETUPDL.exe") -ArgumentList ("\\srv0001\Trainingfiles\Source\SCCMCB\Redist") -wait

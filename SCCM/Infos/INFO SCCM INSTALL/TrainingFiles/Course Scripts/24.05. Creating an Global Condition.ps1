@@ -1,1 +1,0 @@
-New-CMGlobalCondition -Class "Win32_ComputerSystem" -DataType "String" -DeviceType "Windows" -Name "Computer Model" -Property "Model" -Namespace "root\cimv2"

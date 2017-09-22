@@ -1,1 +1,0 @@
-Start-Process -Filepath ("c:\windows\cmtrace.exe") -ArgumentList ("c:\Windows\ccm\Logs\cmRcService.log")

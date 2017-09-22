@@ -1,1 +1,0 @@
-New-CMSoftwareMeteringRule -ProductName Notepad -FileName notepad.exe -FileVersion * -OriginalFileName NOTEPAD.EXE.MUI -LanguageId 65535
